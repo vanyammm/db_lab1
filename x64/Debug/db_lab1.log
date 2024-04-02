@@ -1,0 +1,12 @@
+﻿  Comment.cpp
+  CommentFile.cpp
+  db_lab1.cpp
+  DeletedComments.cpp
+  DeletedTopics.cpp
+  Index.cpp
+  IndexFile.cpp
+  ShortString.cpp
+  Topic.cpp
+  TopicFile.cpp
+  Создание кода...
+  db_lab1.vcxproj -> D:\mycppprojects\db_lab1\x64\Debug\db_lab1.exe
